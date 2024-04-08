@@ -1,10 +1,10 @@
 import * as sequelize from 'sequelize';
 
 export const sequelizeInstance = new sequelize.Sequelize({
-    host: "149.202.105.228",
-    username: "itrioer123",
-    password: "mg87poh66cr0DEC8Tg",
-    database: "itrioer123",
+    host: "192.168.2.22",
+    username: "admin",
+    password: "admin",
+    database: "oauths",
     port: 3306,
     dialect: 'mariadb',
     define: {
