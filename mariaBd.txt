@@ -1,0 +1,7 @@
+oauth : 516cv1B07SQqcMr54H
+MySQL (phpmyadmin) : 516cv1B07SQqcMr54H
+
+blowfish_secret (phrase): Soy_Un_Perro_Increible12
+Termius : 9t@%Muw508#*cR*D85
+
+GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
